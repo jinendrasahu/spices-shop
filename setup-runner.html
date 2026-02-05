@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spices Shop Setup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #8B4513;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 10px 0;
+            background: #8B4513;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+        .button:hover {
+            background: #6B3410;
+        }
+        .info {
+            background: #e8f4f8;
+            padding: 15px;
+            border-left: 4px solid #008CBA;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌶️ Spices Shop Setup</h1>
+        
+        <div class="info">
+            <h3>Instructions:</h3>
+            <ol>
+                <li>First, go to WordPress admin and log in</li>
+                <li>Then return here and click "Run Setup"</li>
+                <li>The setup will automatically install and configure everything</li>
+            </ol>
+        </div>
+
+        <p><strong>This setup will:</strong></p>
+        <ul>
+            <li>✓ Activate WooCommerce</li>
+            <li>✓ Activate Organik theme</li>
+            <li>✓ Create product categories</li>
+            <li>✓ Create 8 sample spice products</li>
+            <li>✓ Configure store settings</li>
+            <li>✓ Create sample pages</li>
+        </ul>
+
+        <button class="button" onclick="runSetup()">Run Setup Now</button>
+        
+        <p style="margin-top: 30px; text-align: center;">
+            <a href="http://localhost:8080" style="color: #008CBA;">← Back to Store</a> | 
+            <a href="http://localhost:8080/wp-admin/" style="color: #008CBA;">Go to Admin →</a>
+        </p>
+    </div>
+
+    <script>
+        function runSetup() {
+            const button = event.target;
+            button.disabled = true;
+            button.textContent = "Running Setup...";
+            
+            // Open the setup script in an iframe
+            const iframe = document.createElement('iframe');
+            iframe.src = 'http://localhost:8080/setup-spices-shop.php';
+            iframe.style.width = '100%';
+            iframe.style.height = '600px';
+            iframe.style.border = '1px solid #ddd';
+            iframe.style.marginTop = '20px';
+            
+            document.querySelector('.container').appendChild(iframe);
+            
+            button.style.display = 'none';
+        }
+    </script>
+</body>
+</html>

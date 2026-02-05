@@ -1,0 +1,772 @@
+[
+  {
+    "name": "Black Pepper",
+    "sku": "ANZ-SP-W-1001",
+    "pack_gm": 25,
+    "price_inr": 45,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Pepper",
+    "sku": "ANZ-SP-W-1002",
+    "pack_gm": 50,
+    "price_inr": 90,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Pepper",
+    "sku": "ANZ-SP-W-1003",
+    "pack_gm": 100,
+    "price_inr": 180,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Pepper",
+    "sku": "ANZ-SP-W-1004",
+    "pack_gm": 200,
+    "price_inr": 360,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Pepper",
+    "sku": "ANZ-SP-W-1005",
+    "pack_gm": 500,
+    "price_inr": 900,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Small",
+    "sku": "ANZ-SP-W-1006",
+    "pack_gm": 25,
+    "price_inr": 80,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Small",
+    "sku": "ANZ-SP-W-1007",
+    "pack_gm": 50,
+    "price_inr": 160,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Small",
+    "sku": "ANZ-SP-W-1008",
+    "pack_gm": 100,
+    "price_inr": 320,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Small",
+    "sku": "ANZ-SP-W-1009",
+    "pack_gm": 200,
+    "price_inr": 640,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Small",
+    "sku": "ANZ-SP-W-1010",
+    "pack_gm": 500,
+    "price_inr": 1600,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Large 7.5 mm and above",
+    "sku": "ANZ-SP-W-1011",
+    "pack_gm": 25,
+    "price_inr": 105,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Large 7.5 mm and above",
+    "sku": "ANZ-SP-W-1012",
+    "pack_gm": 50,
+    "price_inr": 210,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Large 7.5 mm and above",
+    "sku": "ANZ-SP-W-1013",
+    "pack_gm": 100,
+    "price_inr": 420,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Large 7.5 mm and above",
+    "sku": "ANZ-SP-W-1014",
+    "pack_gm": 200,
+    "price_inr": 840,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cardamom - Large 7.5 mm and above",
+    "sku": "ANZ-SP-W-1015",
+    "pack_gm": 500,
+    "price_inr": 2100,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Gundu Mundu Chilli",
+    "sku": "ANZ-SP-W-1016",
+    "pack_gm": 25,
+    "price_inr": 32,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Gundu Mundu Chilli",
+    "sku": "ANZ-SP-W-1017",
+    "pack_gm": 50,
+    "price_inr": 65,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Gundu Mundu Chilli",
+    "sku": "ANZ-SP-W-1018",
+    "pack_gm": 100,
+    "price_inr": 130,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Gundu Mundu Chilli",
+    "sku": "ANZ-SP-W-1019",
+    "pack_gm": 200,
+    "price_inr": 260,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Gundu Mundu Chilli",
+    "sku": "ANZ-SP-W-1020",
+    "pack_gm": 500,
+    "price_inr": 650,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Dry Ginger (Whole)",
+    "sku": "ANZ-SP-W-1021",
+    "pack_gm": 25,
+    "price_inr": 25,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Dry Ginger (Whole)",
+    "sku": "ANZ-SP-W-1022",
+    "pack_gm": 50,
+    "price_inr": 50,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Dry Ginger (Whole)",
+    "sku": "ANZ-SP-W-1023",
+    "pack_gm": 100,
+    "price_inr": 100,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Dry Ginger (Whole)",
+    "sku": "ANZ-SP-W-1024",
+    "pack_gm": 200,
+    "price_inr": 200,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Dry Ginger (Whole)",
+    "sku": "ANZ-SP-W-1025",
+    "pack_gm": 500,
+    "price_inr": 500,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Turmeric Fingers (Whole)",
+    "sku": "ANZ-SP-W-1026",
+    "pack_gm": 25,
+    "price_inr": 18,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Turmeric Fingers (Whole)",
+    "sku": "ANZ-SP-W-1027",
+    "pack_gm": 50,
+    "price_inr": 35,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Turmeric Fingers (Whole)",
+    "sku": "ANZ-SP-W-1028",
+    "pack_gm": 100,
+    "price_inr": 70,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Turmeric Fingers (Whole)",
+    "sku": "ANZ-SP-W-1029",
+    "pack_gm": 200,
+    "price_inr": 140,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Turmeric Fingers (Whole)",
+    "sku": "ANZ-SP-W-1030",
+    "pack_gm": 500,
+    "price_inr": 350,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Ajwain",
+    "sku": "ANZ-SP-W-1031",
+    "pack_gm": 25,
+    "price_inr": 21,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Ajwain",
+    "sku": "ANZ-SP-W-1032",
+    "pack_gm": 50,
+    "price_inr": 42,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Ajwain",
+    "sku": "ANZ-SP-W-1033",
+    "pack_gm": 100,
+    "price_inr": 85,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Ajwain",
+    "sku": "ANZ-SP-W-1034",
+    "pack_gm": 200,
+    "price_inr": 170,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Ajwain",
+    "sku": "ANZ-SP-W-1035",
+    "pack_gm": 500,
+    "price_inr": 425,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Coriander Seeds",
+    "sku": "ANZ-SP-W-1036",
+    "pack_gm": 25,
+    "price_inr": 15,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Coriander Seeds",
+    "sku": "ANZ-SP-W-1037",
+    "pack_gm": 50,
+    "price_inr": 30,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Coriander Seeds",
+    "sku": "ANZ-SP-W-1038",
+    "pack_gm": 100,
+    "price_inr": 60,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Coriander Seeds",
+    "sku": "ANZ-SP-W-1039",
+    "pack_gm": 200,
+    "price_inr": 120,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Coriander Seeds",
+    "sku": "ANZ-SP-W-1040",
+    "pack_gm": 500,
+    "price_inr": 300,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cumin Seeds",
+    "sku": "ANZ-SP-W-1041",
+    "pack_gm": 25,
+    "price_inr": 24,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cumin Seeds",
+    "sku": "ANZ-SP-W-1042",
+    "pack_gm": 50,
+    "price_inr": 48,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cumin Seeds",
+    "sku": "ANZ-SP-W-1043",
+    "pack_gm": 100,
+    "price_inr": 95,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cumin Seeds",
+    "sku": "ANZ-SP-W-1044",
+    "pack_gm": 200,
+    "price_inr": 190,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cumin Seeds",
+    "sku": "ANZ-SP-W-1045",
+    "pack_gm": 500,
+    "price_inr": 475,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fennel Seeds",
+    "sku": "ANZ-SP-W-1046",
+    "pack_gm": 25,
+    "price_inr": 20,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fennel Seeds",
+    "sku": "ANZ-SP-W-1047",
+    "pack_gm": 50,
+    "price_inr": 40,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fennel Seeds",
+    "sku": "ANZ-SP-W-1048",
+    "pack_gm": 100,
+    "price_inr": 80,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fennel Seeds",
+    "sku": "ANZ-SP-W-1049",
+    "pack_gm": 200,
+    "price_inr": 160,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fennel Seeds",
+    "sku": "ANZ-SP-W-1050",
+    "pack_gm": 500,
+    "price_inr": 400,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fenugreek Seeds (Methi)",
+    "sku": "ANZ-SP-W-1051",
+    "pack_gm": 25,
+    "price_inr": 14,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fenugreek Seeds (Methi)",
+    "sku": "ANZ-SP-W-1052",
+    "pack_gm": 50,
+    "price_inr": 28,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fenugreek Seeds (Methi)",
+    "sku": "ANZ-SP-W-1053",
+    "pack_gm": 100,
+    "price_inr": 55,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fenugreek Seeds (Methi)",
+    "sku": "ANZ-SP-W-1054",
+    "pack_gm": 200,
+    "price_inr": 110,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Fenugreek Seeds (Methi)",
+    "sku": "ANZ-SP-W-1055",
+    "pack_gm": 500,
+    "price_inr": 275,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tamarind",
+    "sku": "ANZ-SP-W-1056",
+    "pack_gm": 25,
+    "price_inr": 35,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tamarind",
+    "sku": "ANZ-SP-W-1057",
+    "pack_gm": 50,
+    "price_inr": 70,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tamarind",
+    "sku": "ANZ-SP-W-1058",
+    "pack_gm": 100,
+    "price_inr": 140,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tamarind",
+    "sku": "ANZ-SP-W-1059",
+    "pack_gm": 200,
+    "price_inr": 280,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tamarind",
+    "sku": "ANZ-SP-W-1060",
+    "pack_gm": 500,
+    "price_inr": 700,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cloves",
+    "sku": "ANZ-SP-W-1061",
+    "pack_gm": 25,
+    "price_inr": 28,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cloves",
+    "sku": "ANZ-SP-W-1062",
+    "pack_gm": 50,
+    "price_inr": 55,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cloves",
+    "sku": "ANZ-SP-W-1063",
+    "pack_gm": 100,
+    "price_inr": 110,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cloves",
+    "sku": "ANZ-SP-W-1064",
+    "pack_gm": 200,
+    "price_inr": 220,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cloves",
+    "sku": "ANZ-SP-W-1065",
+    "pack_gm": 500,
+    "price_inr": 550,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Nutmeg",
+    "sku": "ANZ-SP-W-1066",
+    "pack_gm": 25,
+    "price_inr": 65,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Nutmeg",
+    "sku": "ANZ-SP-W-1067",
+    "pack_gm": 50,
+    "price_inr": 130,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Nutmeg",
+    "sku": "ANZ-SP-W-1068",
+    "pack_gm": 100,
+    "price_inr": 260,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Nutmeg",
+    "sku": "ANZ-SP-W-1069",
+    "pack_gm": 200,
+    "price_inr": 520,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Nutmeg",
+    "sku": "ANZ-SP-W-1070",
+    "pack_gm": 500,
+    "price_inr": 1300,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Sticks",
+    "sku": "ANZ-SP-W-1071",
+    "pack_gm": 25,
+    "price_inr": 30,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Sticks",
+    "sku": "ANZ-SP-W-1072",
+    "pack_gm": 50,
+    "price_inr": 60,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Sticks",
+    "sku": "ANZ-SP-W-1073",
+    "pack_gm": 100,
+    "price_inr": 120,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Sticks",
+    "sku": "ANZ-SP-W-1074",
+    "pack_gm": 200,
+    "price_inr": 240,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Sticks",
+    "sku": "ANZ-SP-W-1075",
+    "pack_gm": 500,
+    "price_inr": 600,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Cardamom",
+    "sku": "ANZ-SP-W-1076",
+    "pack_gm": 25,
+    "price_inr": 40,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Cardamom",
+    "sku": "ANZ-SP-W-1077",
+    "pack_gm": 50,
+    "price_inr": 80,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Cardamom",
+    "sku": "ANZ-SP-W-1078",
+    "pack_gm": 100,
+    "price_inr": 160,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Cardamom",
+    "sku": "ANZ-SP-W-1079",
+    "pack_gm": 200,
+    "price_inr": 320,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Black Cardamom",
+    "sku": "ANZ-SP-W-1080",
+    "pack_gm": 500,
+    "price_inr": 800,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Mustard Seeds",
+    "sku": "ANZ-SP-W-1081",
+    "pack_gm": 25,
+    "price_inr": 14,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Mustard Seeds",
+    "sku": "ANZ-SP-W-1082",
+    "pack_gm": 50,
+    "price_inr": 28,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Mustard Seeds",
+    "sku": "ANZ-SP-W-1083",
+    "pack_gm": 100,
+    "price_inr": 55,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Mustard Seeds",
+    "sku": "ANZ-SP-W-1084",
+    "pack_gm": 200,
+    "price_inr": 110,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Mustard Seeds",
+    "sku": "ANZ-SP-W-1085",
+    "pack_gm": 500,
+    "price_inr": 275,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tejpatta (Bay Leaf)",
+    "sku": "ANZ-SP-W-1086",
+    "pack_gm": 25,
+    "price_inr": 22,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tejpatta (Bay Leaf)",
+    "sku": "ANZ-SP-W-1087",
+    "pack_gm": 50,
+    "price_inr": 45,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tejpatta (Bay Leaf)",
+    "sku": "ANZ-SP-W-1088",
+    "pack_gm": 100,
+    "price_inr": 90,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tejpatta (Bay Leaf)",
+    "sku": "ANZ-SP-W-1089",
+    "pack_gm": 200,
+    "price_inr": 180,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Tejpatta (Bay Leaf)",
+    "sku": "ANZ-SP-W-1090",
+    "pack_gm": 500,
+    "price_inr": 450,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Star Anise (Chakra Phool)",
+    "sku": "ANZ-SP-W-1091",
+    "pack_gm": 25,
+    "price_inr": 45,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Star Anise (Chakra Phool)",
+    "sku": "ANZ-SP-W-1092",
+    "pack_gm": 50,
+    "price_inr": 90,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Star Anise (Chakra Phool)",
+    "sku": "ANZ-SP-W-1093",
+    "pack_gm": 100,
+    "price_inr": 180,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Star Anise (Chakra Phool)",
+    "sku": "ANZ-SP-W-1094",
+    "pack_gm": 200,
+    "price_inr": 360,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Star Anise (Chakra Phool)",
+    "sku": "ANZ-SP-W-1095",
+    "pack_gm": 500,
+    "price_inr": 900,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "White Pepper",
+    "sku": "ANZ-SP-W-1096",
+    "pack_gm": 25,
+    "price_inr": 70,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "White Pepper",
+    "sku": "ANZ-SP-W-1097",
+    "pack_gm": 50,
+    "price_inr": 140,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "White Pepper",
+    "sku": "ANZ-SP-W-1098",
+    "pack_gm": 100,
+    "price_inr": 280,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "White Pepper",
+    "sku": "ANZ-SP-W-1099",
+    "pack_gm": 200,
+    "price_inr": 560,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "White Pepper",
+    "sku": "ANZ-SP-W-1100",
+    "pack_gm": 500,
+    "price_inr": 1400,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "sku": "ANZ-SP-W-1101",
+    "pack_gm": 25,
+    "price_inr": 35,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "sku": "ANZ-SP-W-1102",
+    "pack_gm": 50,
+    "price_inr": 70,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "sku": "ANZ-SP-W-1103",
+    "pack_gm": 100,
+    "price_inr": 140,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "sku": "ANZ-SP-W-1104",
+    "pack_gm": 200,
+    "price_inr": 280,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "sku": "ANZ-SP-W-1105",
+    "pack_gm": 500,
+    "price_inr": 700,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Byadagi Chilli",
+    "sku": "ANZ-SP-W-1106",
+    "pack_gm": 25,
+    "price_inr": 30,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Byadagi Chilli",
+    "sku": "ANZ-SP-W-1107",
+    "pack_gm": 50,
+    "price_inr": 60,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Byadagi Chilli",
+    "sku": "ANZ-SP-W-1108",
+    "pack_gm": 100,
+    "price_inr": 120,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Byadagi Chilli",
+    "sku": "ANZ-SP-W-1109",
+    "pack_gm": 200,
+    "price_inr": 240,
+    "category": "Whole Spices"
+  },
+  {
+    "name": "Byadagi Chilli",
+    "sku": "ANZ-SP-W-1110",
+    "pack_gm": 500,
+    "price_inr": 600,
+    "category": "Whole Spices"
+  }
+]
